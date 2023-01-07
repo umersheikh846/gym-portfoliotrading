@@ -18,4 +18,8 @@ This repository contains an OpenAI Gym Environment for portfolio trading with da
 ```
 python main.py -method ppo
 ```
-This will run the PPO. You can any algorithm by just specifying the name of the algorithm.
+This will run the PPO. You can any algorithm by just specifying the name of the algorithm. For sac:
+```
+python main.py -method sac
+```
+
